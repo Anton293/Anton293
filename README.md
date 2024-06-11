@@ -1,6 +1,6 @@
 # Привіт! 👋 Я [Ваше Ім'я]
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Anton293&color=blueviolet)
 
 ## Про мене
 
