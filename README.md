@@ -52,7 +52,7 @@ I am a 2nd-year student at KhAI University. Proficient in Python, Git, NumPy, Do
 
 ## My Projects
 
-[Жовтень 2023] [python-tg-bot-report](https://github.com/Anton293/python-tg-bot-report) - перенаправляє повідомлення в групу, де її вже опрацьовують адміни. Має бани для захисту від спаму.
+[October 2023] [python-tg-bot-report](https://github.com/Anton293/python-tg-bot-report) - forwards messages to a group where admins handle them. It has bans to protect against spam.
 
 ## Contact Information
 
