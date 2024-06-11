@@ -72,3 +72,4 @@ Let's build something amazing together!
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Anton293&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anton293&layout=compact&theme=radical)
 
+##### Last date update README.md: JUN 2024
