@@ -9,6 +9,10 @@ I am a 2nd-year student at KhAI University. Proficient in Python, Git, NumPy, Do
 - 🌱 Currently, I'm studying  **Machine Learning and Data Science**
 - 📫 You can reach me at: [werior36@gmail.com](mailto:werior36@gmail.com)
 
+Feel free to connect with me for collaboration opportunities, project discussions, or just to say hello! I'm always open to new ideas and challenges.
+
+Let's build something amazing together!
+
 ## Skills
 
 ### Programming Languages
