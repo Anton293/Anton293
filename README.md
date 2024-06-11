@@ -52,7 +52,7 @@
 
 ## Мої проекти
 
-[Жовтень 2023] [python-tg-bot-report](https://github.com/Anton293/python-tg-bot-report)
+[Жовтень 2023] [python-tg-bot-report](https://github.com/Anton293/python-tg-bot-report) - перенаправляє повідомлення в групу, де її вже опрацьовують адміни. Має бани для захисту від спаму.
 
 ## Контактна інформація
 
