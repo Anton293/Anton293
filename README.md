@@ -1,4 +1,4 @@
-# Привіт! 👋 Я Anton
+# Привіт! 👋 Я Anton Harkushyn
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anton293&color=blueviolet)   <!-- Прикольна штука, шкода що фігня:) -->
 
