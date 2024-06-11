@@ -1,10 +1,10 @@
 # Привіт! 👋 Я Anton
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anton293&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=Anton293&color=blueviolet)   <!-- Прикольна штука, шкода що фігня:) -->
 
 ## Про мене
 
-Я розробник з володію Python, Git, NumPy, Docker та інших сучасних технологіях. Постійно вдосконалюю свої навички і прагну до створення ефективного коду.
+Я студент 2 курсу університету ХАІ, володію Python, Git, NumPy, Docker та іншими технологіями. Постійно вдосконалюю свої навички і прагну до створення ефективного коду та .
 
 - 🌱 Зараз вивчаю **Machine Learning та Data Science**
 - 📫 Як зі мною зв'язатися: [werior36@gmail.com](mailto:werior36@gmail.com)
@@ -28,6 +28,8 @@
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![SimpleTransformers](https://img.shields.io/badge/-SimpleTransformers-000000?style=flat-square)
 ![Transformers](https://img.shields.io/badge/-Transformers-3178C6?style=flat-square)
+![YOLO](https://img.shields.io/badge/-YOLO-FFA500?style=flat-square)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 <!--![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white)-->
 
 ### Інструменти та технології
@@ -55,8 +57,9 @@
 ## Контактна інформація
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-harkushyn-124bba310/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:werior36@gmail.com)
 
-## Статистика GitHub
+## Статистика GitHub <!-- Ще одна єрунда, але виглядає прикольно :) -->
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Anton293&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anton293&layout=compact&theme=radical)
