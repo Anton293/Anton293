@@ -53,6 +53,10 @@ Let's build something amazing together!
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
+## Communication Skills
+- Ukrainian (native)
+- Russian (native)
+- English (currently learning)
 
 ## My Projects
 
