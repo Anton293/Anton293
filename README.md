@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Anton Harkushyn
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anton293&color=blueviolet)   <!-- Cool stuff, too bad it's rubbish :) -->
+![This page has updates:](https://komarev.com/ghpvc/?username=Anton293&color=blueviolet)   <!-- Cool stuff, too bad it's rubbish :) -->
 
 ## About Me
 
