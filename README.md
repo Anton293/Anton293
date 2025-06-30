@@ -82,7 +82,7 @@ Let's build something amazing together!
 -Built a 250M-parameter text classification model in PyTorch, optimized for few-shot learning scenarios (1 sample per class). Leveraged a custom vectorizer and high-dimensional representations to reach >85% accuracy. Explored lightweight training regimes for large models with limited data.
 
 
-**[2025] [Telegram bot HAISchedule](t.me/@khai_now_bot)**
+**[2025] [Telegram bot HAISchedule](https://t.me/@khai_now_bot)**
 *Python, FastAPI, Redis, PostgreSQL, Docker, Javascript, aiogram, web parsing, Git, CLI, Grafana, Linux (Ubuntu), Jira*
 A Telegram bot for student class schedules, serving over 120 users, with more than 40 daily active users during the academic period. It uses a PostgreSQL database and Redis for analytics. 
 The bot is implemented in Python and includes SSL protection for the database, ensuring secure external access.
