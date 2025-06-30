@@ -54,11 +54,36 @@ Let's build something amazing together!
 ## Communication Skills
 - Ukrainian (native)
 - Russian (native)
-- English (currently learning)
+- English (B1+)
+
 
 ## My Projects
 
-[October 2023] [python-tg-bot-report](https://github.com/Anton293/python-tg-bot-report) - forwards messages to a group where admins handle them. It has bans to protect against spam.
+**[October 2023] [python-tg-bot-report](https://github.com/Anton293/python-tg-bot-report)**
+- forwards messages to a group where admins handle them. It has bans to protect against spam. Base project.
+
+
+**[2024] Side Project: Web service for Dungeons & Dragons gameplay**  
+*Python, Flask, FastAPI, PostgreSQL, WebSockets, Docker, Google api, JavaScript, Go, Redis, Git, Kubernetes, CLI, Rest API, Linux (Ubuntu), Jira*
+
+- Built a custom game board engine for Dungeons & Dragons with real-time token movement, image uploads, editing, and map management. All player actions were synchronized via WebSocket.
+- Designed and implemented the rendering and interaction logic from scratch, without using third-party engines. Thanks to deep optimization, the client could handle 50,000+ objects without lag on a standard PC.
+- Developed a hybrid storage system: PostgreSQL for persistent game data, Redis for active session caching with lazy loading and unloading depending on activity.
+- Integrated analytics via Redis to track player actions and implemented a set of microservices — from image handling to campaign sharing and invitation-based access.
+- Enabled seamless hot updates with Docker during live sessions. Paid special attention to security, including session isolation and API protection.
+- The platform was used in real D&D campaigns, but development was paused after 5 months due to shifting priorities and lack of monetization. Despite that, it provided hands-on experience in building complex web services, managing real-time systems, and maintaining production-grade infrastructure.
+
+
+**[2025] Few-Shot Text Classifier on PyTorch**
+*Python, pandas, numpy, pytorch*
+-Built a 250M-parameter text classification model in PyTorch, optimized for few-shot learning scenarios (1 sample per class). Leveraged a custom vectorizer and high-dimensional representations to reach >85% accuracy. Explored lightweight training regimes for large models with limited data.
+
+
+**[2025] [Telegram bot HAISchedule](t.me/@khai_now_bot)**
+*Python, FastAPI, Redis, PostgreSQL, Docker, Javascript, aiogram, web parsing, Git, CLI, Grafana, Linux (Ubuntu), Jira*
+A Telegram bot for student class schedules, serving over 120 users, with more than 40 daily active users during the academic period. It uses a PostgreSQL database and Redis for analytics. 
+The bot is implemented in Python and includes SSL protection for the database, ensuring secure external access.
+
 
 ## Contact Information
 
@@ -70,4 +95,4 @@ Let's build something amazing together!
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Anton293&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anton293&layout=compact&theme=radical)
 
-##### Last date update README.md: JUN 2024
+##### Last date update README.md: 1 JUL 2025
