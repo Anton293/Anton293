@@ -60,7 +60,10 @@ Let's build something amazing together!
 ## My Projects
 
 **[October 2023] [python-tg-bot-report](https://github.com/Anton293/python-tg-bot-report)**
-- forwards messages to a group where admins handle them. It has bans to protect against spam. Base project.
+*Python, telegram api*
+- Developed a Telegram bot that forwards user messages to a moderation group for manual review.
+- Included basic anti-spam protection via keyword bans and user blocking.
+- Lightweight and functional; created as a base solution for custom bot workflows.
 
 
 **[2024] Side Project: Web service for Dungeons & Dragons gameplay**  
