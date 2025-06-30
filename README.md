@@ -87,6 +87,9 @@ Let's build something amazing together!
 A Telegram bot for student class schedules, serving over 120 users, with more than 40 daily active users during the academic period. It uses a PostgreSQL database and Redis for analytics. 
 The bot is implemented in Python and includes SSL protection for the database, ensuring secure external access.
 
+**[2025] Started development of personal website [cv.harkushyn.com](https://cv.harkushyn.com)**
+*HTML, CSS, JavaScript, Python, FastAPI*
+...
 
 ## Contact Information
 
