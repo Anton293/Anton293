@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a 4th-year student at KhAI University. My core stack includes Python, Git, NumPy, and Docker. I focus on creating clean code and practical project architectures that solve real problems.
+I am a 4th-year student at KhAI University. My core stack includes Python, Git, Linux, and Docker. I focus on creating clean code and practical project architectures that solve real problems.
 
 - 🌱 Currently diving into **Machine Learning.**
 - 📫 Contact: [contact@harkushyn.com](mailto:contact@harkushyn.com)
