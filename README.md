@@ -7,7 +7,7 @@
 I am a 3rd-year student at KhAI University. Proficient in Python, Git, NumPy, Docker, and various other technologies. Continuously improving my skills and striving to create efficient code and project architectures.
 
 - 🌱 Currently, I'm studying  **Machine Learning**
-- 📫 You can reach me at: [werior36@gmail.com](mailto:werior36@gmail.com)
+- 📫 You can reach me at: [contact@harkushyn.com](mailto:contact@harkushyn.com)
 
 Feel free to connect with me for collaboration opportunities, project discussions, or just to say hello! I'm always open to new ideas and challenges.
 
