@@ -53,25 +53,25 @@ Let's build something amazing together!
 
 *My best projects are those that are currently solving my users' problems.*
 
-**💼** [t.me/khai_now_bot](https://t.me/khai_now_bot)
-*Python, Redis, SQL, Docker, Web Parsing, Git, CLI, Grafana, Linux (Ubuntu)*
+**💼** [t.me/khai_now_bot](https://t.me/khai_now_bot) | 
+*Python, Redis, SQL, Docker, Web Parsing, Git, CLI, Grafana, Linux (Ubuntu)* | 
 A Telegram bot for student class schedules. It serves over 210 users, with more than 90 daily active users (DAU) during the academic period.
 
-**💼** [github.com/Anton293/python-tg-bot-report](https://github.com/Anton293/python-tg-bot-report)
-*Python*
+**💼** [github.com/Anton293/python-tg-bot-report](https://github.com/Anton293/python-tg-bot-report) | 
+*Python* | 
 - Forwards direct messages to a specified group.
 - Anti-spam protection via keyword blocking and Telegram user moderation.
 
-**💼** [github.com/Anton293/tg-bot](https://github.com/Anton293/tg-bot)
-*Python, SQL, Rest-API*
+**💼** [github.com/Anton293/tg-bot](https://github.com/Anton293/tg-bot) | 
+*Python, SQL, Rest-API* | 
 This was a technical test assignment that I decided to publish.
 
-**💼** [cv.harkushyn.com](https://cv.harkushyn.com)
-*Python, Linux*
+**💼** [cv.harkushyn.com](https://cv.harkushyn.com) | 
+*Python, Linux* | 
 Just a personal web page.
 
-**💼** [contact@harkushyn.com](mailto:contact@harkushyn.com)
-*Docker, DNS, Linux*
+**💼** [contact@harkushyn.com](mailto:contact@harkushyn.com) | 
+*Docker, DNS, Linux* | 
 Just my own email service.
 
 ## Contact Information
