@@ -34,18 +34,11 @@ Let's build something amazing together!
 ![Transformers](https://img.shields.io/badge/-Transformers-3178C6?style=flat-square)
 ![YOLO](https://img.shields.io/badge/-YOLO-FFA500?style=flat-square)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-<!--![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white)-->
 
 ### Tools and Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-<!--
-### DevOps
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Travis CI](https://img.shields.io/badge/-Travis%20CI-3EAAAF?style=flat-square&logo=travis-ci&logoColor=white)
--->
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -53,46 +46,33 @@ Let's build something amazing together!
 
 ## Communication Skills
 - Ukrainian (native)
-- Russian (native)
 - English (B1+)
 
 
 ## My Projects
 
-**💼 [October 2023] [python-tg-bot-report] [github.com/Anton293/python-tg-bot-report](https://github.com/Anton293/python-tg-bot-report)**
-*Python, telegram api*
-- Developed a Telegram bot that forwards user messages to a moderation group for manual review.
-- Included basic anti-spam protection via keyword bans and user blocking.
-- Lightweight and functional; created as a base solution for custom bot workflows.
+*My best projects are those that are currently solving my users' problems.*
 
+**💼** [t.me/khai_now_bot](https://t.me/khai_now_bot)
+*Python, Redis, SQL, Docker, Web Parsing, Git, CLI, Grafana, Linux (Ubuntu)*
+A Telegram bot for student class schedules. It serves over 210 users, with more than 90 daily active users (DAU) during the academic period.
 
-**💼 [] [https://github.com/Anton293/tg-bot](https://github.com/Anton293/tg-bot) ** - Тестове завдання одна було, тут телеграм бот
+**💼** [github.com/Anton293/python-tg-bot-report](https://github.com/Anton293/python-tg-bot-report)
+*Python*
+- Forwards direct messages to a specified group.
+- Anti-spam protection via keyword blocking and Telegram user moderation.
 
+**💼** [github.com/Anton293/tg-bot](https://github.com/Anton293/tg-bot)
+*Python, SQL, Rest-API*
+This was a technical test assignment that I decided to publish.
 
-**💼 [2024] Side Project: Web service for Dungeons & Dragons gameplay**  
-*Python, Flask, FastAPI, PostgreSQL, WebSockets, Docker, Google api, JavaScript, Go, Redis, Git, Kubernetes, CLI, Rest API, Linux (Ubuntu), Jira*
+**💼** [cv.harkushyn.com](https://cv.harkushyn.com)
+*Python, Linux*
+Just a personal web page.
 
-- Built a custom game board engine for Dungeons & Dragons with real-time token movement, image uploads, editing, and map management. All player actions were synchronized via WebSocket.
-- Designed and implemented the rendering and interaction logic from scratch, without using third-party engines. Thanks to deep optimization, the client could handle 50,000+ objects without lag on a standard PC.
-- Developed a hybrid storage system: PostgreSQL for persistent game data, Redis for active session caching with lazy loading and unloading depending on activity.
-- Integrated analytics via Redis to track player actions and implemented a set of microservices — from image handling to campaign sharing and invitation-based access.
-- Enabled seamless hot updates with Docker during live sessions. Paid special attention to security, including session isolation and API protection.
-- The platform was used in real D&D campaigns, but development was paused after 5 months due to shifting priorities and lack of monetization. Despite that, it provided hands-on experience in building complex web services, managing real-time systems, and maintaining production-grade infrastructure.
-
-
-**💼 [2025] Few-Shot Text Classifier on PyTorch**
-*Python, pandas, numpy, pytorch*
--Built a 250M-parameter text classification model in PyTorch, optimized for few-shot learning scenarios (1 sample per class). Leveraged a custom vectorizer and high-dimensional representations to reach >85% accuracy. Explored lightweight training regimes for large models with limited data.
-
-
-**💼 [2025] [Telegram bot HAISchedule] [t.me/khai_now_bot](https://t.me/khai_now_bot)**
-*Python, FastAPI, Redis, PostgreSQL, Docker, Javascript, aiogram, web parsing, Git, CLI, Grafana, Linux (Ubuntu), Jira*
-A Telegram bot for student class schedules, serving over 120 users, with more than 40 daily active users during the academic period. It uses a PostgreSQL database and Redis for analytics. 
-The bot is implemented in Python and includes SSL protection for the database, ensuring secure external access.
-
-**💼 [2025] Started development of personal website [cv.harkushyn.com](https://cv.harkushyn.com)**
-*JavaScript, Python*
-...
+**💼** [contact@harkushyn.com](mailto:contact@harkushyn.com)
+*Docker, DNS, Linux*
+Just my own email service.
 
 ## Contact Information
 
