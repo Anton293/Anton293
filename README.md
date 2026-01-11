@@ -79,9 +79,5 @@ Just my own email service.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anton-harkushyn-124bba310/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:werior36@gmail.com)
 
-## GitHub Statistics <!-- Another nonsense, but looks cool :) -->
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Anton293&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anton293&layout=compact&theme=radical)
 
 ##### Last date update README.md: 11-01-2026
