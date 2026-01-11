@@ -55,7 +55,7 @@ Let's build something amazing together!
 
 **💼** [t.me/khai_now_bot](https://t.me/khai_now_bot) • 
 *Python, Redis, SQL, Docker, Web Parsing, Git, CLI, Nginx, Grafana, Linux (Ubuntu)*
-- A Telegram bot for student class schedules. It serves over 210 users, with more than 90 daily active users (DAU) during the academic period.
+- A comprehensive student schedule assistant serving 210+ users (90+ DAU). Features include resilient web parsing using free proxies, smart class notifications, lecture link management logic, and image-to-PDF tools.
 
 **💼** [github.com/Anton293/python-tg-bot-report](https://github.com/Anton293/python-tg-bot-report) •
 *Python*
