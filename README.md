@@ -58,7 +58,7 @@ Let's build something amazing together!
 - A Telegram bot for student class schedules. It serves over 210 users, with more than 90 daily active users (DAU) during the academic period.
 
 **💼** [github.com/Anton293/python-tg-bot-report](https://github.com/Anton293/python-tg-bot-report) •
-*Python* •
+*Python*
 - Forwards direct messages to a specified group.
 - Anti-spam protection via keyword blocking and Telegram user moderation.
 
