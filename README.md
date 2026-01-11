@@ -54,7 +54,7 @@ Let's build something amazing together!
 *My best projects are those that are currently solving my users' problems.*
 
 **💼** [t.me/khai_now_bot](https://t.me/khai_now_bot) • 
-*Python, Redis, SQL, Docker, Web Parsing, Git, CLI, Grafana, Linux (Ubuntu)*
+*Python, Redis, SQL, Docker, Web Parsing, Git, CLI, Nginx, Grafana, Linux (Ubuntu)*
 - A Telegram bot for student class schedules. It serves over 210 users, with more than 90 daily active users (DAU) during the academic period.
 
 **💼** [github.com/Anton293/python-tg-bot-report](https://github.com/Anton293/python-tg-bot-report) •
@@ -64,10 +64,10 @@ Let's build something amazing together!
 
 **💼** [github.com/Anton293/tg-bot](https://github.com/Anton293/tg-bot) • 
 *Python, SQL, Rest-API*
-- This was a technical test assignment that I decided to publish.
+- A technical test assignment that I decided to publish as a code sample.
 
 **💼** [cv.harkushyn.com](https://cv.harkushyn.com) • 
-*Python, Linux*
+*Linux, Nginx*
 - Just a personal web page.
 
 **💼** [contact@harkushyn.com](mailto:contact@harkushyn.com) • 
