@@ -55,7 +55,10 @@ Let's build something amazing together!
 
 **💼** [t.me/khai_now_bot](https://t.me/khai_now_bot) • 
 *Python, Redis, SQL, Docker, Web Parsing, Git, CLI, Nginx, Grafana, Linux (Ubuntu)*
-- A comprehensive student schedule assistant serving 210+ users (90+ DAU). Features include resilient web parsing using free proxies, smart class notifications, lecture link management logic, and image-to-PDF tools.
+- A comprehensive student schedule assistant serving 210+ users (90+ DAU). This is a large-scale application featuring:
+  - Resilient web parsing using free proxy rotation.
+  - Complex logic for notification scheduling and lecture link management.
+  - Built-in utilities like Image-to-PDF conversion.
 
 **💼** [github.com/Anton293/python-tg-bot-report](https://github.com/Anton293/python-tg-bot-report) •
 *Python*
