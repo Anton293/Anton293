@@ -59,17 +59,17 @@ Let's build something amazing together!
 
 ## My Projects
 
-** 💼 [October 2023] [python-tg-bot-report] [github.com/Anton293/python-tg-bot-report](https://github.com/Anton293/python-tg-bot-report)**
+**💼 [October 2023] [python-tg-bot-report] [github.com/Anton293/python-tg-bot-report](https://github.com/Anton293/python-tg-bot-report)**
 *Python, telegram api*
 - Developed a Telegram bot that forwards user messages to a moderation group for manual review.
 - Included basic anti-spam protection via keyword bans and user blocking.
 - Lightweight and functional; created as a base solution for custom bot workflows.
 
 
-** 💼 [] [https://github.com/Anton293/tg-bot](https://github.com/Anton293/tg-bot) ** - Тестове завдання одна було, тут телеграм бот
+**💼 [] [https://github.com/Anton293/tg-bot](https://github.com/Anton293/tg-bot) ** - Тестове завдання одна було, тут телеграм бот
 
 
-** 💼 [2024] Side Project: Web service for Dungeons & Dragons gameplay**  
+**💼 [2024] Side Project: Web service for Dungeons & Dragons gameplay**  
 *Python, Flask, FastAPI, PostgreSQL, WebSockets, Docker, Google api, JavaScript, Go, Redis, Git, Kubernetes, CLI, Rest API, Linux (Ubuntu), Jira*
 
 - Built a custom game board engine for Dungeons & Dragons with real-time token movement, image uploads, editing, and map management. All player actions were synchronized via WebSocket.
@@ -80,12 +80,12 @@ Let's build something amazing together!
 - The platform was used in real D&D campaigns, but development was paused after 5 months due to shifting priorities and lack of monetization. Despite that, it provided hands-on experience in building complex web services, managing real-time systems, and maintaining production-grade infrastructure.
 
 
-** 💼 [2025] Few-Shot Text Classifier on PyTorch**
+**💼 [2025] Few-Shot Text Classifier on PyTorch**
 *Python, pandas, numpy, pytorch*
 -Built a 250M-parameter text classification model in PyTorch, optimized for few-shot learning scenarios (1 sample per class). Leveraged a custom vectorizer and high-dimensional representations to reach >85% accuracy. Explored lightweight training regimes for large models with limited data.
 
 
-** 💼 [2025] [Telegram bot HAISchedule] [t.me/khai_now_bot](https://t.me/khai_now_bot)**
+**💼 [2025] [Telegram bot HAISchedule] [t.me/khai_now_bot](https://t.me/khai_now_bot)**
 *Python, FastAPI, Redis, PostgreSQL, Docker, Javascript, aiogram, web parsing, Git, CLI, Grafana, Linux (Ubuntu), Jira*
 A Telegram bot for student class schedules, serving over 120 users, with more than 40 daily active users during the academic period. It uses a PostgreSQL database and Redis for analytics. 
 The bot is implemented in Python and includes SSL protection for the database, ensuring secure external access.
