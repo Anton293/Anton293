@@ -4,14 +4,12 @@
 
 ## About Me
 
-I am a 3rd-year student at KhAI University. Proficient in Python, Git, NumPy, Docker, and various other technologies. Continuously improving my skills and striving to create efficient code and project architectures.
+I am a 4th-year student at KhAI University. My core stack includes Python, Git, NumPy, and Docker. I focus on creating clean code and practical project architectures that solve real problems.
 
-- 🌱 Currently, I'm studying  **Machine Learning**
-- 📫 You can reach me at: [contact@harkushyn.com](mailto:contact@harkushyn.com)
+- 🌱 Currently diving into **Machine Learning.**
+- 📫 Contact: [contact@harkushyn.com](mailto:contact@harkushyn.com)
 
-Feel free to connect with me for collaboration opportunities, project discussions, or just to say hello! I'm always open to new ideas and challenges.
-
-Let's build something amazing together!
+Open to collaboration and new engineering challenges. Let's build something amazing!
 
 ## Skills
 
@@ -75,7 +73,7 @@ Let's build something amazing together!
 
 **💼** [contact@harkushyn.com](mailto:contact@harkushyn.com) • 
 *Docker, DNS, Linux*
-- Just my own email service.
+- Just my own self-hosted email service.
 
 ## Contact Information
 
