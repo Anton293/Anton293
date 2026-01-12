@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Anton Harkushyn
 
-[![Anton Harkushyn profile views](https://u8views.com/api/v1/github/profiles/75950532/views/day-week-month-total-count.svg)](https://u8views.com/github/Anton293)  <!-- Cool stuff, too bad it's rubbish :) -->
+[![Anton Harkushyn profile views](https://stats.harkushyn.com/api/badge.svg)](https://harkushyn.com/)  <!-- Cool stuff, too bad it's rubbish :) -->
 
 ## About Me
 
