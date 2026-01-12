@@ -68,7 +68,7 @@ Rust
 *Python, SQL, Rest-API*
 - A technical test assignment that I decided to publish as a code sample.
 
-**💼** [cv.harkushyn.com](https://cv.harkushyn.com) • 
+**💼** [harkushyn.com](https://harkushyn.com) • 
 *Linux, Nginx*
 - Just a personal web page.
 
