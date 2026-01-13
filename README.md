@@ -6,7 +6,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://stats.harkushyn.com/api/badge.svg?repo=github.com/Anton293&theme=light">
     <img alt="Anton Harkushyn profile views" src="https://stats.harkushyn.com/api/badge.svg?repo=github.com/Anton293">
   </picture>
-</a>  <!-- Cool stuff, too bad it's rubbish :) -->
+</a>  <!-- Cool stuff, too bad it's rubbish :)  https://stats.harkushyn.com/api/stats?repo=github.com/Anton293-->
 
 ## About Me
 
