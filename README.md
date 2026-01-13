@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Anton Harkushyn
 
-[![Anton Harkushyn profile views](https://stats.harkushyn.com/api/badge.svg)](https://harkushyn.com/)  <!-- Cool stuff, too bad it's rubbish :) -->
+[![Anton Harkushyn profile views](https://stats.harkushyn.com/api/badge.svg?repo=github.com/Anton293)](https://harkushyn.com/)  <!-- Cool stuff, too bad it's rubbish :) -->
 
 ## About Me
 
