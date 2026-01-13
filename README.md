@@ -1,6 +1,12 @@
 # Hello! 👋 I'm Anton Harkushyn
 
-[![Anton Harkushyn profile views](https://stats.harkushyn.com/api/badge.svg?repo=github.com/Anton293)](https://harkushyn.com/)  <!-- Cool stuff, too bad it's rubbish :) -->
+<a href="https://harkushyn.com/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats.harkushyn.com/api/badge.svg?repo=github.com/Anton293&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://stats.harkushyn.com/api/badge.svg?repo=github.com/Anton293&theme=light">
+    <img alt="Anton Harkushyn profile views" src="https://stats.harkushyn.com/api/badge.svg?repo=github.com/Anton293">
+  </picture>
+</a>  <!-- Cool stuff, too bad it's rubbish :) -->
 
 ## About Me
 
