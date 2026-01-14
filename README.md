@@ -61,7 +61,7 @@ Rust
 
 **💼** [t.me/khai_now_bot](https://t.me/khai_now_bot) • 
 *Python, Redis, SQL, Docker, Web Parsing, Git, CLI, Nginx, Grafana, Linux (Ubuntu)*
-- A comprehensive student schedule assistant serving 210+ users (90+ DAU). **This is a large-scale application featuring:**
+- A comprehensive student schedule assistant serving 210+ users (90+ DAU). **This is application featuring:**
   - Resilient web parsing using free proxy rotation.
   - Complex logic for notification scheduling and lecture link management.
   - Built-in utilities like Image-to-PDF conversion.
