@@ -18,6 +18,38 @@ I am a 4th-year student at KhAI University. My core stack includes Python, Git, 
 
 Open to collaboration and new engineering challenges. Let's build something amazing!
 
+## My Projects
+
+*My best projects are those that are currently solving my users' problems.*
+
+**💼** [t.me/khai_now_bot](https://t.me/khai_now_bot) • 
+*Python, Redis, SQL, Docker, Web Parsing, Git, CLI, Nginx, Grafana, Linux (Ubuntu)*
+- A comprehensive student schedule assistant serving 210+ users (90+ DAU). **This is application featuring:**
+  - Resilient web parsing using free proxy rotation.
+  - Complex logic for notification scheduling and lecture link management.
+  - Built-in utilities like Image-to-PDF conversion.
+
+**💼** [github.com/Anton293/python-tg-bot-report](https://github.com/Anton293/python-tg-bot-report) •
+*Python*
+- Forwards direct messages to a specified group.
+- Anti-spam protection via keyword blocking and Telegram user moderation.
+
+**💼** [github.com/Anton293/tg-bot](https://github.com/Anton293/tg-bot) • 
+*Python, SQL, Rest-API*
+- A technical test assignment that I decided to publish as a code sample.
+
+**💼** [harkushyn.com](https://harkushyn.com) • 
+*Linux, Nginx*
+- Just a personal web page.
+
+**💼** [contact@harkushyn.com](mailto:contact@harkushyn.com) • 
+*Docker, DNS, Linux*
+- Just my own self-hosted email service.
+
+
+
+
+
 ## Skills
 
 ### Programming Languages
@@ -53,35 +85,6 @@ Rust
 ## Communication Skills
 - Ukrainian (native)
 - English (B1+)
-
-
-## My Projects
-
-*My best projects are those that are currently solving my users' problems.*
-
-**💼** [t.me/khai_now_bot](https://t.me/khai_now_bot) • 
-*Python, Redis, SQL, Docker, Web Parsing, Git, CLI, Nginx, Grafana, Linux (Ubuntu)*
-- A comprehensive student schedule assistant serving 210+ users (90+ DAU). **This is application featuring:**
-  - Resilient web parsing using free proxy rotation.
-  - Complex logic for notification scheduling and lecture link management.
-  - Built-in utilities like Image-to-PDF conversion.
-
-**💼** [github.com/Anton293/python-tg-bot-report](https://github.com/Anton293/python-tg-bot-report) •
-*Python*
-- Forwards direct messages to a specified group.
-- Anti-spam protection via keyword blocking and Telegram user moderation.
-
-**💼** [github.com/Anton293/tg-bot](https://github.com/Anton293/tg-bot) • 
-*Python, SQL, Rest-API*
-- A technical test assignment that I decided to publish as a code sample.
-
-**💼** [harkushyn.com](https://harkushyn.com) • 
-*Linux, Nginx*
-- Just a personal web page.
-
-**💼** [contact@harkushyn.com](mailto:contact@harkushyn.com) • 
-*Docker, DNS, Linux*
-- Just my own self-hosted email service.
 
 ## Contact Information
 
