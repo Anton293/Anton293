@@ -29,6 +29,13 @@ Open to collaboration and new engineering challenges. Let's build something amaz
   - Complex logic for notification scheduling and lecture link management.
   - Built-in utilities like Image-to-PDF conversion.
 
+**💼** [github.com/Anton293/anon-confess--team](https://github.com/Anton293/anon-confess--team) •
+*Python (3.13), CI/CD, PostgresSQL, Redis, FastAPI*
+- UGC platform designed with Clean Architecture.
+- Fully automated DevOps pipeline (GitHub Actions → GHCR → Production).
+- High-performance async backend using psycopg + SQLAlchemy 2.0 & Pydantic v2.
+- (Active development)
+
 **💼** [github.com/Anton293/python-tg-bot-report](https://github.com/Anton293/python-tg-bot-report) •
 *Python*
 - Forwards direct messages to a specified group.
