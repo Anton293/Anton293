@@ -1,11 +1,11 @@
 # Hello! 👋 I'm Anton Harkushyn
 
-<a href="https://stats.harkushyn.com/?repo=github.com/Anton293">
+<a href="https://stats.harkushyn.com/g/?repo=github.com/Anton293">
   <picture>
     <source media="(prefers-color-scheme: dark) and (orientation: portrait)" srcset="https://stats.harkushyn.com/api/badge.svg?repo=github.com/Anton293&theme=dark&device=mobile">
     <source media="(prefers-color-scheme: light) and (orientation: portrait)" srcset="https://stats.harkushyn.com/api/badge.svg?repo=github.com/Anton293&theme=light&device=mobile">
     <source media="(prefers-color-scheme: dark)" srcset="https://stats.harkushyn.com/api/badge.svg?repo=github.com/Anton293&theme=dark&device=desktop">
-    <img alt="Anton Harkushyn profile views" src="https://stats.harkushyn.com/api/badge.svg?repo=github.com/Anton293&theme=light&device=desktop">
+    <img alt="Profile Views" src="https://stats.harkushyn.com/api/badge.svg?repo=github.com/Anton293&theme=light&device=desktop">
   </picture>
 </a>  <!-- Cool stuff, too bad it's rubbish :)  https://stats.harkushyn.com/api/stats?repo=github.com/Anton293-->
 
