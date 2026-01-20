@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Anton Harkushyn
 
-<a href="https://harkushyn.com/">
+<a href="https://stats.harkushyn.com/?repo=github.com/Anton293">
   <picture>
     <source media="(prefers-color-scheme: dark) and (orientation: portrait)" srcset="https://stats.harkushyn.com/api/badge.svg?repo=github.com/Anton293&theme=dark&device=mobile">
     <source media="(prefers-color-scheme: light) and (orientation: portrait)" srcset="https://stats.harkushyn.com/api/badge.svg?repo=github.com/Anton293&theme=light&device=mobile">
