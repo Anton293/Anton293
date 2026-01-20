@@ -45,6 +45,10 @@ Open to collaboration and new engineering challenges. Let's build something amaz
 *Python, SQL, Rest-API*
 - A technical test assignment that I decided to publish as a code sample.
 
+**💼** [stats.harkushyn.com](https://stats.harkushyn.com/?repo=github.com/Anton293) •
+*Nginx, Docker, Rust*
+- Github stats badge.svg
+
 **💼** [harkushyn.com](https://harkushyn.com) • 
 *Linux, Nginx*
 - Just a personal web page.
