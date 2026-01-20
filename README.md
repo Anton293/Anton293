@@ -34,7 +34,7 @@ Open to collaboration and new engineering challenges. Let's build something amaz
 - UGC platform designed with Clean Architecture.
 - Fully automated DevOps pipeline (GitHub Actions → GHCR → Production).
 - High-performance async backend using psycopg + SQLAlchemy 2.0 & Pydantic v2.
-- (Active development - 10% ready)
+- (Active development - 10% ready - ![commit count](https://img.shields.io/github/commit-activity/w/Anton293/anon-confess--team/master) )
 
 **💼** [github.com/Anton293/python-tg-bot-report](https://github.com/Anton293/python-tg-bot-report) •
 *Python*
