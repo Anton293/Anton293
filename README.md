@@ -46,8 +46,9 @@ Open to collaboration and new engineering challenges. Let's build something amaz
 - A technical test assignment that I decided to publish as a code sample.
 
 **💼** [stats.harkushyn.com](https://stats.harkushyn.com/?repo=github.com/Anton293) •
-*Nginx, Docker, Rust*
-- Github stats badge.svg
+*Nginx, Docker, Redis, Rust*
+- GitHub Profile Analytics: Custom dynamic SVG badges.
+- Micro-footprint: Highly optimized Rust backend using only 5MB RAM (w/ Redis).
 
 **💼** [harkushyn.com](https://harkushyn.com) • 
 *Linux, Nginx*
