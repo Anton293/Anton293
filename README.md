@@ -11,7 +11,7 @@
 
 ## About Me
 
-I am a 4th-year student at KhAI University. My core stack includes Python, Git, CI/CD, Linux, and Docker. I focus on creating clean code and practical project architectures that solve real problems.
+My core stack includes Python, Git, CI/CD, Linux, and Docker. As a Backend Engineer, I focus on creating clean code and practical project architectures that solve real problems.
 
 - 🌱 Currently diving into **DevOps.**
 - 📫 Contact: [contact@harkushyn.com](mailto:contact@harkushyn.com)
