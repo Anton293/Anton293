@@ -100,3 +100,9 @@ Rust
 
 
 ##### Last date update README.md: 20-01-2026
+<picture>
+    <source media="(prefers-color-scheme: dark) and (orientation: portrait)" srcset="https://stats.harkushyn.com/api/long-stats.svg?repo=github.com/Anton293&theme=dark&device=mobile">
+    <source media="(prefers-color-scheme: light) and (orientation: portrait)" srcset="https://stats.harkushyn.com/api/long-stats.svg?repo=github.com/Anton293&theme=light&device=mobile">
+    <source media="(prefers-color-scheme: dark)" srcset="https://stats.harkushyn.com/api/long-stats.svg?repo=github.com/Anton293&theme=dark&device=desktop">
+    <img alt="Anton Harkushyn profile views" src="https://stats.harkushyn.com/api/long-stats.svg?repo=github.com/Anton293&theme=light&device=desktop">
+</picture>
