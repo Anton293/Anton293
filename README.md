@@ -35,15 +35,6 @@ Open to collaboration and new engineering challenges. Let's build something amaz
 - High-performance async backend using psycopg + SQLAlchemy 2.0 & Pydantic v2.
 - (Active development - 10% ready - ![commit count](https://img.shields.io/github/commit-activity/w/Anton293/anon-confess--team/master) )
 
-**💼** [github.com/Anton293/python-tg-bot-report](https://github.com/Anton293/python-tg-bot-report) •
-*Python*
-- Forwards direct messages to a specified group.
-- Anti-spam protection via keyword blocking and Telegram user moderation.
-
-**💼** [github.com/Anton293/tg-bot](https://github.com/Anton293/tg-bot) • 
-*Python, SQL, Rest-API*
-- A technical test assignment that I decided to publish as a code sample.
-
 **💼** [stats.harkushyn.com](https://stats.harkushyn.com/g/?repo=github.com/Anton293) •
 *Nginx, Docker, Redis, Rust*
 - GitHub Profile Analytics: Custom dynamic SVG badges.
