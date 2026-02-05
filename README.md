@@ -8,15 +8,6 @@
     <img alt="Profile Views" src="https://stats.harkushyn.com/api/badge.svg?repo=github.com/Anton293&theme=light&device=desktop">
 </picture></a>
 
-## About Me
-
-My core stack includes Python, Git, CI/CD, Linux, and Docker. As a Backend Engineer, I focus on creating clean code and practical project architectures that solve real problems.
-
-- 🌱 Currently diving into **DevOps.**
-- 📫 Contact: [contact@harkushyn.com](mailto:contact@harkushyn.com)
-
-Open to collaboration and new engineering challenges. Let's build something amazing!
-
 ## My Projects
 
 *My best projects are those that are currently solving my users' problems.*
@@ -49,6 +40,15 @@ Open to collaboration and new engineering challenges. Let's build something amaz
 - Just my own self-hosted email service.
 
 
+
+## About Me
+
+My core stack includes Python, Git, CI/CD, Linux, and Docker. As a Backend Engineer, I focus on creating clean code and practical project architectures that solve real problems.
+
+- 🌱 Currently diving into **DevOps.**
+- 📫 Contact: [contact@harkushyn.com](mailto:contact@harkushyn.com)
+
+Open to collaboration and new engineering challenges. Let's build something amazing!
 
 
 
