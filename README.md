@@ -45,7 +45,7 @@
 
 My core stack includes Python, Git, CI/CD, Linux, and Docker. As a Backend Engineer, I focus on creating clean code and practical project architectures that solve real problems.
 
-- 🌱 Currently diving into **DevOps.**
+- 🌱 Currently diving into **Backend & DevOps.**
 - 📫 Contact: [contact@harkushyn.com](mailto:contact@harkushyn.com)
 
 Open to collaboration and new engineering challenges. Let's build something amazing!
