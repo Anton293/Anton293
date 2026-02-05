@@ -23,7 +23,7 @@
 *Python (3.13), CI/CD, SQL, Redis, FastAPI*
 - UGC platform designed with Clean Architecture.
 - Fully automated DevOps pipeline (GitHub Actions → GHCR → Production).
-- High-performance async backend using psycopg + SQLAlchemy 2.0 & Pydantic v2.
+- High-performance async backend using asyncpg + SQLAlchemy 2.0 & Pydantic v2.
 - (Active development - 10% ready - ![commit count](https://img.shields.io/github/commit-activity/w/Anton293/anon-confess--team/master) )
 
 **💼** [stats.harkushyn.com](https://stats.harkushyn.com/g/?repo=github.com/Anton293) •
